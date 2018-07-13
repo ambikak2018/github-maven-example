@@ -22,7 +22,8 @@
 		</license>
 	</licenses>
 
-	<scm>git@github.com:ambikak2018/github-maven-example.git
+	<scm>
+		git@github.com:ambikak2018/github-maven-example.git
 		<url>https://github.com/ambikak2018/github-maven-example</url>
 		<connection>scm:git:git://github.com/ambikak2018/github-maven-example.git</connection>
 		<developerConnection>scm:git:git@github.com:ambikak2018/github-maven-example.git</developerConnection>
